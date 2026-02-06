@@ -50,10 +50,10 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "LFG!!!! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "LFG!!!! I'm the man person in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss! ",
-        emojis: "🎁💖🤗💝💋❤️💕",  // These will bounce around
         message: "P.S Look behind your seat",
+        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
